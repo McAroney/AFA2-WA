@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      This is The Weather Application front page
+      This is The Weather Application front page.
     </p>
   </div>
 </template>
