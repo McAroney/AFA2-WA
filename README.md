@@ -1,4 +1,5 @@
 # weather-app
+iNITIAL COMMIT AND  DOCUMENTATION OF THE ASSIGNMENT 2: WEATHER APP
 
 ## Project setup
 ```
